@@ -1,1 +1,2 @@
 - 2026-04-29 docs: update devlog (6455)
+- 2026-04-29 test: add manual checklist (13850)
