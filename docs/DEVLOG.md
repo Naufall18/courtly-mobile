@@ -1,3 +1,4 @@
 - 2026-04-29 docs: update devlog (6455)
 - 2026-04-29 test: add manual checklist (13850)
 - 2026-04-30 test: add manual checklist (31518)
+- 2026-05-06 refactor: extract helper (32588)
