@@ -3,3 +3,4 @@
 - 2026-04-30 test: add manual checklist (31518)
 - 2026-05-06 refactor: extract helper (32588)
 - 2026-05-06 refactor: tidy imports (7476)
+- 2026-05-12 chore: bump metadata (18248)
