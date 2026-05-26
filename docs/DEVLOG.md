@@ -5,3 +5,4 @@
 - 2026-05-06 refactor: tidy imports (7476)
 - 2026-05-12 chore: bump metadata (18248)
 - 2026-05-24 docs: update devlog (9216)
+- 2026-05-26 chore: bump metadata (335)
