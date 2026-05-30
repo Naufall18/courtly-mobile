@@ -7,3 +7,4 @@
 - 2026-05-24 docs: update devlog (9216)
 - 2026-05-26 chore: bump metadata (335)
 - 2026-05-27 fix: guard empty title (5508)
+- 2026-05-30 perf: avoid rebuilds (26039)
