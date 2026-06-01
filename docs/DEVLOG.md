@@ -9,3 +9,4 @@
 - 2026-05-27 fix: guard empty title (5508)
 - 2026-05-30 perf: avoid rebuilds (26039)
 - 2026-06-01 refactor: tidy imports (8579)
+- 2026-06-01 style: tweak padding (14926)
