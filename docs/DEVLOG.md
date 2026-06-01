@@ -8,3 +8,4 @@
 - 2026-05-26 chore: bump metadata (335)
 - 2026-05-27 fix: guard empty title (5508)
 - 2026-05-30 perf: avoid rebuilds (26039)
+- 2026-06-01 refactor: tidy imports (8579)
