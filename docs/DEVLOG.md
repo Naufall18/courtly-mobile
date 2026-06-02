@@ -10,3 +10,4 @@
 - 2026-05-30 perf: avoid rebuilds (26039)
 - 2026-06-01 refactor: tidy imports (8579)
 - 2026-06-01 style: tweak padding (14926)
+- 2026-06-02 chore: cleanup (1087)
