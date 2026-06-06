@@ -11,3 +11,4 @@
 - 2026-06-01 refactor: tidy imports (8579)
 - 2026-06-01 style: tweak padding (14926)
 - 2026-06-02 chore: cleanup (1087)
+- 2026-06-06 style: polish colors (18343)
