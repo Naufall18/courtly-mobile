@@ -20,3 +20,4 @@
 - 2026-06-16 refactor: tidy imports (3021)
 - 2026-06-17 docs: expand readme (16083)
 - 2026-06-17 style: polish colors (10701)
+- 2026-06-18 chore: cleanup (29434)
