@@ -23,3 +23,4 @@
 - 2026-06-18 chore: cleanup (29434)
 - 2026-06-21 refactor: tidy imports (18709)
 - 2026-06-21 docs: expand readme (1890)
+- 2026-06-23 docs: update devlog (24575)
