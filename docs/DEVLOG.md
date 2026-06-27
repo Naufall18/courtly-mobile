@@ -25,3 +25,4 @@
 - 2026-06-21 docs: expand readme (1890)
 - 2026-06-23 docs: update devlog (24575)
 - 2026-06-26 test: add manual checklist (1985)
+- 2026-06-27 chore: cleanup (13066)
