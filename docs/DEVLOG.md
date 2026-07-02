@@ -26,3 +26,4 @@
 - 2026-06-23 docs: update devlog (24575)
 - 2026-06-26 test: add manual checklist (1985)
 - 2026-06-27 chore: cleanup (13066)
+- 2026-07-02 docs: note follow-ups (30623)
