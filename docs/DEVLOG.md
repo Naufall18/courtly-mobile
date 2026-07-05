@@ -28,3 +28,4 @@
 - 2026-06-27 chore: cleanup (13066)
 - 2026-07-02 docs: note follow-ups (30623)
 - 2026-07-03 docs: expand readme (24113)
+- 2026-07-05 style: tweak padding (969)
