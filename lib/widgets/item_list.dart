@@ -78,12 +78,38 @@ class ItemList extends StatelessWidget {
                     : CircleAvatar(child: Text(it.title.characters.first)),
                 title: Text(it.title),
                 subtitle: sub.isEmpty ? null : Text(sub),
-                trailing: AppConfig.usesValue
-                    ? Text(
+                trailing: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    if (AppConfig.usesFlag)
+                      Container(
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 9, vertical: 3),
+                        decoration: BoxDecoration(
+                          color: (it.flag ? Colors.green : Colors.orange)
+                              .withValues(alpha: 0.15),
+                          borderRadius: BorderRadius.circular(20),
+                        ),
+                        child: Text(
+                          it.flag ? AppConfig.flagLabel : 'Pending',
+                          style: TextStyle(
+                            fontSize: 11,
+                            fontWeight: FontWeight.w600,
+                            color: it.flag
+                                ? Colors.green.shade800
+                                : Colors.orange.shade800,
+                          ),
+                        ),
+                      ),
+                    if (AppConfig.usesValue)
+                      Text(
                         it.value.toStringAsFixed(0),
                         style: Theme.of(context).textTheme.titleMedium,
-                      )
-                    : const Icon(Icons.chevron_right),
+                      ),
+                    const SizedBox(width: 4),
+                    const Icon(Icons.chevron_right),
+                  ],
+                ),
                 onTap: () => _openForm(context, existing: it),
               ),
             );
