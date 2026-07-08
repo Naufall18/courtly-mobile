@@ -25,10 +25,30 @@ class ItemList extends StatelessWidget {
         }
         final items = selector();
         if (items.isEmpty) {
-          return const Center(
+          return Center(
             child: Padding(
-              padding: EdgeInsets.all(24),
-              child: Text('Nothing here yet — tap + to add.'),
+              padding: const EdgeInsets.all(24),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Icon(Icons.event_busy,
+                      size: 56, color: Theme.of(context).colorScheme.outline),
+                  const SizedBox(height: 14),
+                  Text('No ${AppConfig.noun.toLowerCase()}s yet',
+                      style: Theme.of(context).textTheme.titleMedium),
+                  const SizedBox(height: 6),
+                  Text('Book a court and it will show up here.',
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                          color: Theme.of(context).colorScheme.outline)),
+                  const SizedBox(height: 18),
+                  FilledButton.icon(
+                    onPressed: () => _openForm(context),
+                    icon: const Icon(Icons.add),
+                    label: Text('Add ${AppConfig.noun}'),
+                  ),
+                ],
+              ),
             ),
           );
         }
