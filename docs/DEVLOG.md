@@ -3,3 +3,4 @@
 - 2026-07-11: test: manual QA pass on core flows [000]
 - 2026-07-11: docs: expand changelog notes [001]
 - 2026-07-11: docs: clarify readme run steps [002]
+- 2026-07-11: docs: expand changelog notes [003]
