@@ -10,3 +10,4 @@ Notable changes to Courtly.
 - docs: expand changelog notes (2026-07-11-003)
 - docs: devlog — reviewed widget tree (2026-07-13-000)
 - docs: devlog — persistence sanity check (2026-07-13-001)
+- docs: clarify readme run steps (2026-07-13-002)

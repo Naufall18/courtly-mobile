@@ -6,3 +6,4 @@
 - 2026-07-11: docs: expand changelog notes [003]
 - 2026-07-13: docs: devlog — reviewed widget tree [000]
 - 2026-07-13: docs: devlog — persistence sanity check [001]
+- 2026-07-13: docs: clarify readme run steps [002]
