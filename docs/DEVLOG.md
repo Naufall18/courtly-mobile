@@ -11,3 +11,4 @@
 - 2026-07-15: docs: expand changelog notes [000]
 - 2026-07-15: docs: record edge cases to handle [001]
 - 2026-07-15: docs: devlog — reviewed widget tree [002]
+- 2026-07-15: docs: clarify readme run steps [003]
