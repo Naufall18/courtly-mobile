@@ -14,3 +14,4 @@ Notable changes to Courtly.
 - style: note spacing adjustments (2026-07-13-003)
 - docs: expand changelog notes (2026-07-15-000)
 - docs: record edge cases to handle (2026-07-15-001)
+- docs: devlog — reviewed widget tree (2026-07-15-002)
