@@ -8,3 +8,4 @@
 - 2026-07-13: docs: devlog — persistence sanity check [001]
 - 2026-07-13: docs: clarify readme run steps [002]
 - 2026-07-13: style: note spacing adjustments [003]
+- 2026-07-15: docs: expand changelog notes [000]
