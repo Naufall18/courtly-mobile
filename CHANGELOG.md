@@ -13,3 +13,4 @@ Notable changes to Courtly.
 - docs: clarify readme run steps (2026-07-13-002)
 - style: note spacing adjustments (2026-07-13-003)
 - docs: expand changelog notes (2026-07-15-000)
+- docs: record edge cases to handle (2026-07-15-001)
