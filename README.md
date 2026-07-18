@@ -76,3 +76,7 @@ flutter run
 ## 📄 License
 
 MIT © [Naufall18](https://github.com/Naufall18)
+
+## Catatan booking
+
+Alur booking lapangan: pilih jadwal, konfirmasi, bayar di tempat.
