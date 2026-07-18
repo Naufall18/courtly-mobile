@@ -17,3 +17,4 @@ Notable changes to Courtly.
 - docs: devlog — reviewed widget tree (2026-07-15-002)
 - docs: clarify readme run steps (2026-07-15-003)
 - test: manual QA pass on core flows (2026-07-17-000)
+- docs: expand changelog notes (2026-07-18-000)
