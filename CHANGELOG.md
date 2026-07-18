@@ -19,3 +19,4 @@ Notable changes to Courtly.
 - test: manual QA pass on core flows (2026-07-17-000)
 - docs: expand changelog notes (2026-07-18-000)
 - test: manual QA pass on core flows (2026-07-18-001)
+- docs: note follow-up ideas (2026-07-19-000)

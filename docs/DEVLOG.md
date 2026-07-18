@@ -15,3 +15,4 @@
 - 2026-07-17: test: manual QA pass on core flows [000]
 - 2026-07-18: docs: expand changelog notes [000]
 - 2026-07-18: test: manual QA pass on core flows [001]
+- 2026-07-19: docs: note follow-up ideas [000]
