@@ -23,3 +23,4 @@ Notable changes to Courtly.
 - docs: devlog — checked state flow (2026-07-19-001)
 - docs: record edge cases to handle (2026-07-20-000)
 - style: note spacing adjustments (2026-07-20-001)
+- docs: expand changelog notes (2026-07-20-002)
