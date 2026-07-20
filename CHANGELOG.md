@@ -21,3 +21,4 @@ Notable changes to Courtly.
 - test: manual QA pass on core flows (2026-07-18-001)
 - docs: note follow-up ideas (2026-07-19-000)
 - docs: devlog — checked state flow (2026-07-19-001)
+- docs: record edge cases to handle (2026-07-20-000)

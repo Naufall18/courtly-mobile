@@ -17,3 +17,4 @@
 - 2026-07-18: test: manual QA pass on core flows [001]
 - 2026-07-19: docs: note follow-up ideas [000]
 - 2026-07-19: docs: devlog — checked state flow [001]
+- 2026-07-20: docs: record edge cases to handle [000]
