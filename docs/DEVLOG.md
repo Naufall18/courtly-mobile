@@ -18,3 +18,4 @@
 - 2026-07-19: docs: note follow-up ideas [000]
 - 2026-07-19: docs: devlog — checked state flow [001]
 - 2026-07-20: docs: record edge cases to handle [000]
+- 2026-07-20: style: note spacing adjustments [001]
